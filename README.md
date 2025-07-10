@@ -24,6 +24,11 @@ go get fyne.io/fyne/v2
 import "fyne.io/fyne/v2"
 ```
 
+*Also you can just download "rtx5090"(this is for linux) and run it with command*
+```
+./rtx5090
+```
+
 ### Aurora usage
 
 In my projects timer.go and converter.go, I used Aurora to add colored text in the terminal.
