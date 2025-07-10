@@ -18,5 +18,5 @@ go get -u github.com/logrusorgru/aurora/v4
 
 Done! You can now use
 ```
-fmt "github.com/logrusorgru/aurora/v4"
+import "github.com/logrusorgru/aurora/v4"
 ```
